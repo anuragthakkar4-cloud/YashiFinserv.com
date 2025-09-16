@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="About Yashi Finserv">
+  <title>About - Yashi Finserv</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Yashi Finserv</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="services.html">Services</a>
+      <a href="about.html">About</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+
+  <section>
+    <h2>About Yashi Finserv</h2>
+    <p>Short introduction about Yashi Finserv here.</p>
+    <p><strong>CEO:</strong> Gopi Mandloi</p>
+    <p><strong>Contact:</strong> 9754412006, 9202212006, 9926026723</p>
+    <p><strong>Address:</strong> Patel Nagar, Sapna Sangeeta Road, in front of Shree Leela Restaurant, Indore 452001</p>
+  </section>
+</body>
+</html>
